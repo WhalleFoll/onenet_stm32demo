@@ -3,21 +3,19 @@
 #### 介绍
 stm32通过at指令控制esp8266,使用Mqtt协议连接至onenet云平台,实现智能控制,数据上发等功能.
 
-#### 软件架构
-软件架构说明
+#### 所需硬件
+STM32F103ZET6,ESP8266
 
 
-#### 安装教程
+#### 物联网平台
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  onenet账号的申请
+1.  mqtt协议
+1.  ![image-20220501145020801](C:\Users\闫鹏\AppData\Roaming\Typora\typora-user-images\image-20220501145020801.png)![image-20220501145142154](C:\Users\闫鹏\AppData\Roaming\Typora\typora-user-images\image-20220501145142154.png)
 
 #### 使用说明
 
 1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
